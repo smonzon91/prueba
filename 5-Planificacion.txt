@@ -1,0 +1,89 @@
+Planificación SCRUM
+
+Planificación
+
+“La planificación de Sprint es una reunión crítica, probablemente la más importante de Scrum.
+Una planificación de Sprint mal ejecutada puede arruinar por completo todo el Sprint.
+
+El propósito de la planificación de Sprint es proporcionar al equipo suficiente información como para
+que puedan trabajar en paz y sin interrupciones durante unas pocas semanas, y para ofrecer al
+Dueño de Producto suficiente confianza como para permitírselo.
+
+Una planificación de Sprint produce, concretamente:
+
+● Una meta de Sprint.
+● Una lista de miembros (y su nivel de dedicación, si no es del 100%)
+● Una Pila de Sprint (lista de historias incluidas en el Sprint)
+● Una fecha concreta para la Demo del Sprint.
+● Un lugar y momento definido para el Scrum Diario.
+
+Es importante que tanto el equipo como el propietario del producto asistan a la planificación de Sprint
+ya que cada historia contiene tres variables que son muy dependientes unas de otras.
+
+
+		  ALCANCE
+
+	ESTIMACIÓN       IMPORTANCIA
+
+  (Variables involucradas en cada historia de un Sprint.)
+
+
+El alcance y la importancia los fija el propietario del producto. La estimación la proporciona el equipo.
+Durante una planificación de Sprint, estas variables tienen un ajuste fino y continuo a través del diálogo
+cara a cara entre el equipo y el propietario del producto ”.
+
+La reunión que se realiza al comienzo de cada Sprint donde participa el equipo completo; sirve para
+inspeccionar el Product Backlog y que el equipo de desarrollo selecciona los Items del Product Backlog
+en los que va a trabajar durante el siguiente Sprint. Durante esta reunión, el Propietario del producto
+presenta el Backlog del producto actualizado que el equipo de desarrollo se encarga de estimar,
+además de intentar clarificar aquellos ítems que crean necesarios.
+
+Durante esta etapa se inspeccionan el Product Backlog, los acuerdos de la Retrospectiva, la capacidad
+y la Definición de Done y se adaptan el Sprint Backlog, Sprint Goal y el plan para poder alcanzar ese
+Sprint Goal."
+
+
+(img Entradas, organización y resultados de la reunión de planificación de Sprint.)
+
+
+Planificación de póquer
+
+A la hora de estimar tiempos se trata de alcanzar los siguientes objetivos:
+
+● Tener diferentes puntos de vista. En la estimación ágil se busca que todo el mundo participe y diga
+la suya. Si hay discusión mejor, ya que de lo que se trata es de avanzar todo lo posible en los problemas
+y tenerlos en cuenta desde el inicio. No debería haber personas con una voz y voto más fuertes que
+los demás.
+● Detectar posibles tareas ocultas y posibles obstáculos. La sesión de estimación es una de las primeras
+oportunidades de detectar riesgos que pueden comenzar a tratarse para que no se conviertan en
+impedimentos.
+● Tener una visión compartida del trabajo que se va a realizar. Es muy útil haber participado en las
+estimaciones para después hacer las planificaciones. Conocer el tamaño de las historias y tareas permite
+que sea más fácil comprometerse con un plan de trabajo.
+● Tener estimaciones más realistas (no más precisas). Para ello necesitas eliminar la presión
+contractual, esto es, dejar margen para equivocarse y evitar así introducir buffers “inconscientes” por si
+acaso. Lo que buscamos es realismo, no precisión, es decir, quiero saber si una historia serán 3 o 5 días,
+si me dices que tardarás 26,5 horas dudaré de que hayas hecho un buen ejercicio de estimación.
+Planning Poker es una técnica efectiva para la estimación ágil. Se reúne al equipo y se utiliza una baraja
+de poker modificada con la que se hacen rondas de estimación con ayuda de estas cartas.
+
+La baraja de cartas tiene una pseudo secuencia de Fibonacci modificada, cada participante recibe
+cartas con valores 0, ½, 1, 2, 3, 5, 10, ? e infinito, donde el 0 significa que la historia ya está hecha
+o no requiere esfuerzo, el interrogante significa que falta información para estimar la tarea o historia,
+finalmente el infinito significa que el trabajo es demasiado grande y habría que subdividirla.
+Para comenzar la sesión de estimación se suele realizar una ronda de preguntas para estimar y para
+despejar cualquier tipo de duda sobre las historias que se van a estimar. Luego se leen y discuten una
+por una las historias y cada uno de los integrantes elige una carta en función del esfuerzo que debe
+requerir esa historia, es importante aclarar que solo se pueden elegir valores incluidos en la baraja.
+Finalmente, si no hay consenso, se abre discusión donde cada uno explica su elección, luego se repite
+la estimación en busca de un consenso y, si al final no hay consenso, se elige la media o el valor más
+alto.
+
+
+Esta técnica tiene varias ventajas:
+
+● Todos los miembros del equipo expresan su opinión sin sentirse condicionados por el resto.
+● Al ser consciente del esfuerzo que supone, aumenta el grado de implicación de los componentes
+del equipo.
+● Al sentirse partícipe, el grado de compromiso con el proyecto también aumenta.
+● Hay más efectividad a la hora de estimar las fechas de entrega del proyecto.
